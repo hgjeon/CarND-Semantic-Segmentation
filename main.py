@@ -91,11 +91,6 @@ def layers(vgg_layer3_out, vgg_layer4_out, vgg_layer7_out, num_classes):
 
     return ouput_decoder_3
 
-
-
-
-
-
 tests.test_layers(layers)
 
 
