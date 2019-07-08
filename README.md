@@ -13,9 +13,9 @@ The Fully Convolutional Network has been extended from VGG16 Network. The FCN ha
 
 Following training parameters have been chosen monitoring the Loss conversion in each epoch iteration.
 ```
-epochs = 8
-batch_size = 4
-learning_rate = 0.0005
+epochs = 20
+batch_size = 5
+learning_rate = 0.0002
 ```
 Also, **Adam Optimizer** has been used.
 ```
